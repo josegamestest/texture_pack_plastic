@@ -1,0 +1,3 @@
+Some files are modified from the game: minetest_game
+and others designed by: Jose Anastacio
+Use it and have fun, in case of doubt read the link in the game https://github.com/minetest/minetest_game
