@@ -1,6 +1,11 @@
-# texture_pack_plastic
-## Plastic like textures for minetest
-Clean texture with a plastic look, Designed by me based on the standard minetest textures, It is little different from the design, but they are cleaner and with time they will be modified to have more different characteristics.
-I didn't make modifications for mods and only for minetesgame, so any texture to enter the package needs to be thought about and added. any mod not included will have its visial unchanged.
-Play and use on your servers at will, if you have any doubts about the mods, read the standard minetest license on the media. because the standard licenses and I preferred to leave it like that, following the standard vision of the game.
-LINK minetest_game license https://github.com/minetest/minetest_game
+https://creativecommons.org/licenses/by-sa/3.0/us/
+Você tem direito a:
+Compartilhe — copie e redistribua o material em qualquer meio ou formato
+Adaptar — remixar, transformar e construir sobre o material
+para qualquer finalidade, mesmo comercial.
+Esta licença é aceitável para Trabalhos Culturais Gratuitos.
+O licenciante não pode revogar esses direitos enquanto você cumprir os termos da licença.
+
+Não fiz modificações para mods e apenas para minetesgame, então qualquer textura para entrar no pacote precisa ser pensada e adicionada. qualquer mod não incluso terá seu visual inalterado.
+Jogue e use em seus servidores a vontade, caso tenha dúvidas sobre os mods, leia a licença minetest padrão na mídia. pois as licenças padrão e eu preferi deixar assim, seguindo a visão padrão do jogo.
+LINK licença minetest_game https://github.com/minetest/minetest_game
