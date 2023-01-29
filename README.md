@@ -12,10 +12,10 @@ Play and use on your servers at will, if you have any doubts about the mods, rea
 LINK minetest_game license https://github.com/minetest/minetest_game
 </div>
 
-Protugues Brasileiro
 <div>
-<h2>Texture_pack_plastic</h2>
-</h3> Texturas de plástico para minetest</h3>
+<h2>Protugues Brasileiro</h2>
+<h3>Texture_pack_plastic</h3>
+<h3> Texturas de plástico para minetest</h3>
 </div>
 <div>
 Textura clean com visual plástico, Desenhado por mim com base nas texturas padrão do minetest, é um pouco diferente do design, mas são mais clean e com o tempo serão modificados para terem características mais diferenciadas.
